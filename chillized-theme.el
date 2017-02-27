@@ -1,6 +1,6 @@
 ;;; chillized-theme.el --- a solarized-based dark chill theme
 
-;; Copyright (C) 2016 zk_phi
+;; Copyright (C) 2016- zk_phi
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
@@ -41,7 +41,7 @@
  (let ((solarized-colors
         '((base03 "#1c1c1c") (base02 "#212121") (base01 "#5d5d5d") (base00 "#676767")
           (base0 "#7d7d7d") (base1 "#898989") (base2 "#d2d2d2") (base3 "#d8d8d8")
-          (yellow "#9e9e9e") (orange "#997c5e") (red "#aa6b6b") (magenta "#c0c0c0")
+          (yellow "#9e9e9e") (orange "#9b744c") (red "#aa6b6b") (magenta "#c0c0c0")
           (violet "#c0c0c0") (blue "#c0c0c0") (cyan "#77889a") (green "#9e9e9e"))))
    (solarized-color-definitions)))
 
